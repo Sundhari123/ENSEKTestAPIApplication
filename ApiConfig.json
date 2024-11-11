@@ -1,0 +1,8 @@
+{
+  "loginAPI": "/ENSEK/login",
+  "getEnergyAPI": "/ENSEK/energy",
+  "getOrdersAPI": "/ENSEK/orders",
+  "putEnergyUnitsAPI": "/ENSEK/buy/<energyId>/<quantity>",
+  "postResetDataAPI": "/ENSEK/reset",
+  "orderIdAPI": "/ENSEK/orders/<orderId>"
+}

@@ -1,6 +1,8 @@
-**Specflow BDD Framework
-API Automation Framework using Specflow
-Built with**
+**Specflow BDD Framework**
+
+**API Automation Framework using Specflow**
+
+Built with
 Specflow
 RestSharp
 NUnit
